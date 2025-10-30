@@ -64,7 +64,7 @@ header > p{
     margin: auto; /* centraliza o parágrafo */
     padding-left: 10px; /* espaço interno na esquerda */
     padding-right: 10px; /* espaço interno na direita */
-    margin-bottom: 20px; /* espaço embaixo do parágrafo */
+    padding-bottom: 50px; /* espaço embaixo do parágrafo */
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.315); /* sombra do texto */
 }
 
